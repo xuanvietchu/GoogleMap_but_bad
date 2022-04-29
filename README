@@ -1,8 +1,7 @@
 Dijkstra algorithm is implemented as the optimal route finder. Students are responsible to implement the "server" folder (except for the txt data file). The client and map are provided in the class.
 
 Running instruction:
-0. Download GNOME Terminal: https://linux.softpedia.com/get/Terminals/gnome-terminal-12210.shtml (this allows us to run a command on a  newly-opened terminal 
-												  from the original terminal)
+0. Download GNOME Terminal: https://linux.softpedia.com/get/Terminals/gnome-terminal-12210.shtml (this allows us to run a command on a newly-opened terminal from the original terminal)
 1. Go to /soln/server using terminal
 2. run the "make" command
 3. Go back to main branch
