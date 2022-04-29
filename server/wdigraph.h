@@ -15,8 +15,6 @@ using namespace std;
 
 class WDigraph : public Digraph {
 public:
-  // No constructor or destructor are necessary this time.
-  // A new instance will be an empty graph with no nodes.
 
   // returns the cost/weight of an edge
   // if it does not exist, returns error
