@@ -1,22 +1,9 @@
-Name: Viet Chu
-SID: 1692927
-CCID: vchu1
-CMPUT 275, Winter 2022
-Assignment 1 part 2: server
-
-Included files:
-	*Makefile
-	*/client/client.py
-	*/server/server.cpp
-	*/server/Makefile
-	*/server/dijkstra.cpp
-	*/server/dijkstra.h
-	*/server/edmonton-roads-2.0.1.txt
-	*README
-
 Running instruction:
+0. Download GNOME Terminal: https://linux.softpedia.com/get/Terminals/gnome-terminal-12210.shtml (this allows us to run a command on a  newly-opened terminal 
+												  from the original terminal)
 1. Go to /soln/server using terminal
 2. run the "make" command
-3. Go back to /soln
+3. Go back to main branch
 4. run the "make" command
-
+5. Click 2 points on the screen to choose the positions you want to find a route.
+6. Close the machine by click the x button on the top right
