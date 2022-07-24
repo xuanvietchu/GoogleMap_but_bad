@@ -1,4 +1,4 @@
-Dijkstra algorithm is implemented as the optimal route finder. Students are responsible to implement the "server" folder (except for the txt data file). The client and map are provided in the class (this is a class project)
+Dijkstra algorithm is implemented as the optimal route finder. 
 
 Running instruction:
 0. Download GNOME Terminal: https://linux.softpedia.com/get/Terminals/gnome-terminal-12210.shtml (this allows us to run a command on a newly-opened terminal from the original terminal)
