@@ -1,6 +1,12 @@
-Dijkstra algorithm is implemented as the optimal route finder. 
+# Dijkstra Visualizer
 
-Running instruction:
+## Overview
+Dijkstra algorithm is implemented as the optimal route finder. 
+<p align="center">
+  <img src="assets/demonstration.gif" alt="animated" />
+</p>
+
+## Running instruction:
 0. Download GNOME Terminal: https://linux.softpedia.com/get/Terminals/gnome-terminal-12210.shtml (this allows us to run a command on a newly-opened terminal from the original terminal)
 1. Go to /soln/server using terminal
 2. run the "make" command
