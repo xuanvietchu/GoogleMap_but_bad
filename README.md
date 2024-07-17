@@ -1,7 +1,8 @@
 # Dijkstra Visualizer
 
 ## Overview
-Dijkstra algorithm is implemented as the optimal route finder. 
+Dijkstra algorithm is implemented as the optimal route finder.
+
 <p align="center">
   <img src="assets/demonstration.gif" alt="animated" />
 </p>
