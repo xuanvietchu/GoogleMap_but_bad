@@ -4,7 +4,7 @@
 Dijkstra algorithm is implemented as the optimal route finder.
 
 <p align="center">
-  <img src="assets/demonstration.gif" alt="animated" />
+  <img src="assets/demontration.gif" alt="animated" />
 </p>
 
 ## Running instruction:
